@@ -3,6 +3,14 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Jupyter 
+.ipynb_checkpoints/
+
+# Saved data
+data
+*.parquet
+*.csv
+
 # C extensions
 *.so
 
